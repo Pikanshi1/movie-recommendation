@@ -29,5 +29,3 @@ Thumbs.db
 
 # AI agents / agent configuration
 .agents/
-
-model/similarity.pkl
